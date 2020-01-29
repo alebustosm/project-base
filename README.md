@@ -1,1 +1,1 @@
-# project-base
+# project-base django + oauth2
